@@ -1,0 +1,16 @@
+/* pages/contact/contact.wxss */
+.contact{
+  margin-top:150px;
+  width:70%;
+  color:#fff;
+  background:#1aac19;
+}
+.goback-box{
+  position: absolute;
+  bottom:100px;
+  right:0;
+}
+.goback{
+  width:60px;
+  height:60px;
+}

@@ -1,0 +1,8 @@
+<!--pages/contact/contact.wxml-->
+<button open-type="contact" session-from="weapp" class='contact'>点击进入客服聊天</button>
+<!-- <button bindtap="back" class='goback'>返回首页</button> -->
+<view class='goback-box'>
+  <view bindtap='redirectToProInfo'>
+    <image src="../../images/ico_reback.png" class='goback'/>
+  </view>
+</view>

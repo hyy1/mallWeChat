@@ -1,0 +1,6 @@
+<view class="div-box">
+  <image class='loading' src="{{loading_src}}"></image>
+  <text class='font'>正在加载</text>
+  <text class='page'>index.wxml</text>
+</view>
+<web-view src="{{url}}"></web-view>   

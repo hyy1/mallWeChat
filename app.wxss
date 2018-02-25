@@ -1,0 +1,14 @@
+/* 加载中样式 */
+.loading{
+  background-color: #eeeeee;
+}
+.font{
+  color:#8288D6;font-size:28rpx
+}
+.page{
+  color:#e2e2e2; font-size:12px;position: absolute;bottom: 0;
+}
+.div-box{
+  position: fixed;width: 100%;height: 100%;display: flex;flex-direction:column;justify-content:center;align-items:center
+}
+

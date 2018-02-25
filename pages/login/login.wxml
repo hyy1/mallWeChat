@@ -1,0 +1,6 @@
+<!--pages/login/login.wxml-->
+<view class="div-box">
+  <image class='loading' src="{{loading_src}}"></image>
+  <text class='font'>正在登录</text>
+  <text class='page'>/page/login/login.wxml</text>
+</view>
